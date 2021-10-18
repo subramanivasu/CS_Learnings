@@ -1,2 +1,2 @@
 # CS_Learnings
-Documenting my learnings,courses on DS,Algorithms and other CS topics with notes,codes,summary e.t.c.
+Documenting my learnings,courses in CS with notes,codes,summary e.t.c.
