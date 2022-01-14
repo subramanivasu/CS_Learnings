@@ -1,0 +1,4 @@
+﻿  main.c
+D:\DS & Algo\Data Structures & Algorithms in C,C++\TailHead\Indirect_Recursion\main.c(18): warning C4716: 'funcB': must return a value
+D:\DS & Algo\Data Structures & Algorithms in C,C++\TailHead\Indirect_Recursion\main.c(11): warning C4716: 'funcA': must return a value
+  Indirect_Recursion.vcxproj -> D:\DS & Algo\Data Structures & Algorithms in C,C++\TailHead\x64\Debug\Indirect_Recursion.exe
