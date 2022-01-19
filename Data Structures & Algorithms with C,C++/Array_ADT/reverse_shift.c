@@ -61,8 +61,8 @@ float avg(struct Array *arr){
 }
 
 void reverse(struct Array *arr){
-
-    int B[arr->length];
+    
+    int B[10];
     for(int i=arr->length-1,j=0;i>=0;i--,j++){
         B[j]=arr->A[i];
     }
